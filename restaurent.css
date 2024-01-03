@@ -1,0 +1,193 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+#nav-item1{
+    color:black;
+    font-size:20px;
+}
+#nav-item2{
+  color: black; 
+  font-size: 20px; 
+}
+#nav-item3{
+    color: black;
+    font-size: 20px;
+}
+#nav-item4{
+    color: black;
+    font-size: 20px;
+}
+.food-munch-logo{
+    height: 70px;
+    width: 80px;
+}
+.banner-bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+.banner-heading{
+    font-size: 50px;
+    font-family: 'roboto';
+    color:white;
+}
+.banner-caption{
+    font-size: 30px;
+    font-style: italic;
+    color: azure;
+}
+.button-style{
+    border-radius: 10px;
+    background-color:transparent;
+    color: white;
+    margin: 10px;
+    border-color: blanchedalmond;
+    padding: 5px;
+    width: 130px;
+  height: 45px;
+  border-width: solid;
+}
+.button-outline-style{
+    border-radius: 10px;
+    background-color:transparent;
+    color: white;
+    margin: 10px;
+    border-color: blanchedalmond;
+    padding: 5px;
+    width: 130px;
+  height: 45px;
+  border-width: solid;
+}
+.wcu-container{
+    background-color:white;
+}
+.wcu-heading{
+    font-family: 'roboto';
+    font-size:50px;
+    color: gold;
+    font-weight: 100;
+}
+.wcu-description{
+    font-family: 'roboto';
+    font-size: 30px;
+    color:black;
+}
+.wcu-card-section{
+  text-align: center;
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5eaf4;
+  border-radius: 16px;
+}
+.wcu-card-image{
+    height:70px ;
+    width: 80px;
+}
+.wcu-card-title{
+    font-size: 30px;
+    font-family: 'roboto';
+    color: black;
+}
+.wcu-card-description{
+    font-size: 20px;
+    color: black;
+}
+.menu-card-item{
+    border-radius: 26px;
+}
+.menu-card-heading{
+    font-family: 'roboto';
+    font-size: 60px;
+    color: indigo;
+    padding: 10px;
+}
+.menu-item-image{
+    border-radius: 20px;
+}
+.card-heading{
+    font-size: 30px;
+    font-family: 'roboto';
+    color: black;
+}
+.text-link{
+    font-size:40px;
+    color: yellow;
+    font-family: 'roboto';
+    font-weight: 300;
+}
+.healthy-food-section-img{
+    width:240px;
+}
+.healthy-food-heading{
+    color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.healthy-food-description{
+    color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.button{
+    color: white;
+  background-color: #d0b200;
+  width: 130px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+  background-image: linear-gradient(#d0b200, #a58d00);
+}
+.payment-heading{
+    color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.payment-description{
+    color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.delivery-and-payment-section-img{
+    width:300px;
+}
+.payment-card-img{
+    width: 60px;
+  height: 60px;
+  margin-right: 28px;
+}
+.thanking-customer-heading{
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+.thanking-customer-description{
+    font-size: medium;
+}
+.thanking-customers-section-img{
+    width: 270px;
+  margin-bottom: 20px;
+}
+.thanking-customer-section{
+    background-color:white
+}
+.follow-secton-heading{
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 100px;
+    font-weight: 700;
+}
+.icon{
+    color: #d0b200;
+    font-size: 35px;
+    margin: 15px;
+    background-color:#faf7e8;
+    border-radius: 30px;
+    height: 50px;
+    width: 50px;
+}
+.thanking-section{
+    background-image: radial-gradient( #fff8db, #fae38c);
+}
